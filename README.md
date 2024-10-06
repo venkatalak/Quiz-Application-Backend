@@ -36,3 +36,16 @@ Ensure that your frontend application is configured to make requests to the corr
 ## Database
 
 The default database used is MySQL, which comes pre-installed with XAMPP. You can manage the database through phpMyAdmin, accessible at `http://localhost/phpmyadmin` after starting the XAMPP server.
+
+## Database Schema
+
+Here are the tables used in quiz-application database:
+
+### Topics Table
+![Topics Table](images/topics-table.png)
+
+### Questions Table
+![Questions Table](images/questions-table.png)
+
+### Results Table
+![Results Table](images/results-table.png)
